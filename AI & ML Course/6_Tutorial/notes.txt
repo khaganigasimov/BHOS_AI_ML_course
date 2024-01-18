@@ -1,0 +1,5 @@
+plot a new tree for each parameter so that student will have a better understanding
+
+What is pruning?
+See what is left in lecture slide
+Understand the decision tree classifier method as algorithm
